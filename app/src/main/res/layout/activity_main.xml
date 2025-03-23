@@ -105,5 +105,6 @@
         android:layout_alignParentBottom="true"
         android:layout_marginStart="0dp"
         android:layout_marginBottom="284dp"
-        android:text="계산결과:"/>
+        android:text="계산결과:"
+        android:textSize="30dp"/>
 </RelativeLayout>
